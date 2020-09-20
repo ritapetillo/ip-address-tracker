@@ -1,0 +1,9 @@
+.input {
+  margin: 20px auto;
+  max-width: 560px;
+  @apply flex flex-col w-10/12;
+}
+.input h1 {
+  font-weight: 500;
+  @apply p-6 text-white text-3xl;
+}
